@@ -30,8 +30,6 @@ See the [CONTRIBUTING](https://github.com/FightPandemics/FightPandemics-iOS-Swif
 * Unzip the file, and upload the project folder to Xcode version 11.6 and higher.
 * Happy coding with SwiftUI!
 
-## November 12
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Twk2gD77Y6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Credits
 
