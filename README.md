@@ -37,3 +37,6 @@ Thank you all [Contributors](https://github.com/FightPandemics/FightPandemics-iO
 ## License
 
 FightPandemics is available under the MIT license. See the [LICENSE](https://raw.githubusercontent.com/FightPandemics/FightPandemics-iOS/develop/LICENSE) file for more info.
+
+November 12 | November 11 | 
+![](nov12.gif) | ![](nov11.gif) |      
